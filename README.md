@@ -1,10 +1,10 @@
 # Hi, I'm Dinesh 👋
 
-### .NET Full Stack Developer
+### .NET Full Stack Developer | C# | ASP.NET Core | Web API | SQL Server | Angular
 
 I'm a software developer focused on building scalable and user-friendly web applications using **C#, ASP.NET Core, Web API, Entity Framework Core, SQL Server, and Angular**.
 
-I enjoy learning new technologies, solving problems, and building real-world applications.
+I enjoy building practical applications, working with databases, designing backend APIs, and continuously improving my understanding of clean and maintainable software development.
 
 ## 🚀 About Me
 
