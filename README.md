@@ -2,75 +2,90 @@
 
 ### .NET Full Stack Developer | C# | ASP.NET Core | Web API | SQL Server | Angular
 
-I'm a software developer focused on building scalable and user-friendly web applications using **C#, ASP.NET Core, Web API, Entity Framework Core, SQL Server, and Angular**.
+I'm a Full-Stack .NET Developer with 2 years of experience building and maintaining enterprise web applications.
 
-I enjoy building practical applications, working with databases, designing backend APIs, and continuously improving my understanding of clean and maintainable software development.
+I enjoy solving technical problems, developing reliable software, building backend APIs, working with databases, and turning business requirements into practical solutions.
 
-## 🚀 About Me
+My professional experience includes contributing to enterprise applications in **Laboratory Management, Engineering Job Requests, and Contractor Resource Management**, along with application development, maintenance, debugging, and performance optimization.
 
-* 💻 Focused on **.NET Full Stack Development**
-* 🔧 Building applications with **ASP.NET Core and Web API**
-* 🗄️ Working with **SQL Server and Entity Framework Core**
-* 🌐 Developing frontend applications with **HTML, CSS, JavaScript and Angular**
-* 📚 Continuously improving my **C#, .NET, and software development skills**
-* 🎯 Interested in building clean, maintainable, and scalable applications
+One of my key contributions was improving **API response time by 40%** through performance analysis, troubleshooting, and optimization.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Backend:** C# · .NET · ASP.NET Core · ASP.NET MVC · Web API · Entity Framework Core
 
-* C#
-* ASP.NET Core
-* ASP.NET Core Web API
-* Entity Framework Core
+**Frontend:** Angular · JavaScript · HTML5 · CSS3 · Razor Pages
 
-**Frontend**
+**Database:** SQL Server · MySQL · SQL
 
-* HTML5
-* CSS3
-* JavaScript
-* Angular
+**Security & API:** JWT · Role-Based Authorization · Swagger · Postman
 
-**Database**
+**Tools:** Visual Studio · Git · GitHub · GitHub Actions · Jira · SSMS
 
-* SQL Server
-* MySQL
+**AI & Developer Productivity:** GitHub Copilot · Claude Code · Codex
 
-**Tools & Technologies**
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
-* Swagger
+---
 
 ## 🚀 Featured Projects
 
-### 📌 Student Attendance Management System
+### 🛒 ShopSphere
 
-A web-based application for managing students, classes, academic years, and attendance.
+A full-stack e-commerce application focused on delivering an end-to-end online shopping experience with a scalable application structure and database-driven functionality.
 
-**Technologies:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Angular
+🔗 [View Repository](https://github.com/Dinesh-M43/ShopSphere)
 
-### 📌 TopSpeed Automobile
+---
 
-A full-stack automobile application built using a layered architecture with separate Domain, Application, Infrastructure, and Web projects.
+### 🎓 Student Attendance Management System
 
-**Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server
+A full-stack application for managing students, classes, academic years, subjects, teachers, and attendance.
 
-## 📈 Currently Learning
+The project follows a layered architecture with separate **API, Application, Domain, and Infrastructure** projects.
 
-* Advanced ASP.NET Core
-* RESTful Web APIs
+**Key Areas:**
+
+* Student and class management
+* Academic year and subject management
+* Teacher management
+* Attendance tracking
+* RESTful APIs
+* Authentication and role-based authorization
 * Entity Framework Core
-* Angular
-* Clean Architecture
-* Azure / AWS deployment
+* SQL Server
 
-## 🤝 Connect With Me
+🔗 [View Repository](https://github.com/Dinesh-M43/Student-Attendance-Management-System)
 
-* 💼 LinkedIn: www.linkedin.com/in/dinesh-m-0b3969312
-* 📧 Email: dineshmurugavel4302@gmail.com
+---
+
+### 🚗 TopSpeed Automobile
+
+A full-stack automobile application developed with a layered architecture, focusing on maintainable application structure, database-driven development, and business functionality.
+
+**Technologies:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server
+
+🔗 [View Repository](https://github.com/Dinesh-M43/TopSpeedAutomobile)
+
+---
+
+## 🎯 What I'm Focused On
+
+* Building maintainable and reliable .NET applications
+* Designing and developing RESTful APIs
+* Improving application performance
+* Working with relational databases
+* Applying clean and structured development practices
+* Exploring modern development and AI-assisted programming tools
+
+---
+
+## 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/dinesh-m-0b3969312)
+
+📧 **[dineshmurugavel4302@gmail.com](mailto:dineshmurugavel4302@gmail.com)**
+
 ---
 
 ⭐ Thanks for visiting my profile!
